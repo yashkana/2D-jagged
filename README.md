@@ -46,3 +46,12 @@ namespace Exercises<br>
     }<br>
 }<br>
 
+
+Output
+
+![Screenshot 2022-02-17 120256](https://user-images.githubusercontent.com/98301023/154419050-b38e4ae2-b1dc-4f2e-9297-109aece1ab16.png)
+
+
+
+
+
